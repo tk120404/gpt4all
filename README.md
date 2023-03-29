@@ -149,7 +149,7 @@ python generate.py --config configs/generate/generate.yaml --prompt "Write a scr
     
 
 
-If you utilize this reposistory, models or data in a downstream project, please consider citing it with:
+If you utilize this repository, models or data in a downstream project, please consider citing it with:
 ```
 @misc{gpt4all,
   author = {Yuvanesh Anand and Zach Nussbaum and Brandon Duderstadt and Benjamin Schmidt and Andriy Mulyar},
